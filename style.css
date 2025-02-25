@@ -1,0 +1,30 @@
+*{
+    margin: 0 auto;
+}
+
+body{
+background-color: black;
+}
+
+.wrapper{
+max-width: 22rem;
+background-color: #efefef;
+}
+
+header{
+    background-color: #DC0A2D;
+    color: white;
+}
+
+main{
+    border: 7px solid #DC0A2D;
+}
+
+/* font styling */
+
+/* h1{
+
+} */
+
+
+

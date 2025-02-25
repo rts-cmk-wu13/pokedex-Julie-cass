@@ -1,5 +1,5 @@
 let divElm= document.createElement("div")
-divElm.id = "root"
+divElm.classList = "wrapper"
 divElm.innerHTML=
 `
   <header>
