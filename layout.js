@@ -2,14 +2,14 @@ let divElm= document.createElement("div")
 divElm.classList = "wrapper"
 divElm.innerHTML=
 `
-  <header>
+  <header class="header">
 
 </header>
 
-<main>
+<main class="main">
 </main>
 
-<footer>
+<footer class="footer">
     
 </footer>
 `
